@@ -12,7 +12,7 @@
 Site: 	http://nirmaldahal.com.np
 	https://iamnir.ml
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cp-XPpa_tYU" frameborder="0" allowfullscreen></iframe>
+Demo Video: https://www.youtube.com/embed/Cp-XPpa_tYU
 
 -------------------------------------------------------------------------------
 *Tested On Kali-Rolling, I Am Not Reponsible For Any Kinda Damages Caused This 
